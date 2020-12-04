@@ -1,0 +1,20 @@
+{
+  "name": "npm-ts",
+  "version": "1.0.0",
+  "description": "# Requirements * ... * ... * ...",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha",
+    "build": "tsc",
+    "watch": "tsc -w"
+  },
+  "dependencies": {
+      "mocha": "8.2.1"
+  },
+  "author": "Sebastián Moreno Saavedra <morenosebastian117@gmail.com>",
+  "license": "MIT"
+}
