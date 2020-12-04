@@ -1,6 +1,6 @@
 # Generador de proyectos NPM
 
-Este generador sirve para crear projectos NPM de javascript y Typescript.
+Este generador sirve para crear proyectos NPM de javascript y Typescript.
 
 # Requerimientos
 * Node v12.18.2
